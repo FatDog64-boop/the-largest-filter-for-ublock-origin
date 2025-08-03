@@ -4,7 +4,7 @@ the file in the repository is a huge collection of all the most popular filters 
 
 ## how to import?
 
-paste the following lines into filter Lists -> import:
+paste the following lines into filter lists -> import:
 
 ```https://raw.githubusercontent.com/FatDog64-boop/the-largest-filter-for-ublock-origin/refs/heads/main/filters1
 https://raw.githubusercontent.com/FatDog64-boop/the-largest-filter-for-ublock-origin/refs/heads/main/filters2
